@@ -1,4 +1,4 @@
-# Stock-Predictor-and-Resume-Ranker
+# Resume-Ranker
 
 ---
 
