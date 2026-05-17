@@ -31,11 +31,6 @@ A Flask-based web app that allows users to upload resumes and input a job descri
 
 ---
 
----
-
-
----
-
 
 ## 👨‍💻 Author
 
